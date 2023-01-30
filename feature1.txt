@@ -1,1 +1,2 @@
 This is feature 1 , that should not be commit based on test
+Feature 1 adding to your amazing (with success test)
